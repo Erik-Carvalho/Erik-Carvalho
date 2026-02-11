@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Erik Carvalho
 
-<!--
-**Erik-Carvalho/Erik-Carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Programação | Java | Web | IoT/ESP32  
+🚀 Focado em evoluir do básico ao avançado todos os dias 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou apaixonado por tecnologia e desenvolvimento de software.  
+Atualmente estou estudando **Java, CRUD, backend, web e projetos embarcados com ESP32**, criando sistemas reais para praticar e ganhar experiência prática.
+Gosto de aprender construindo projetos
+
+---
+
+## 🛠️ Tecnologias que estou usando
+💡 Em constante evolução
+
+- ☕ Java, C++
+- 🌐 HTML, CSS
+- 🗄️ CRUD / Backend
+- 🔌 ESP32 / IoT /
+  
+---
+
+## 📊 Estatísticas do GitHub
+
+![Erik stats](https://github-readme-stats.vercel.app/api?username=Erik-Carvalho&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-Carvalho&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+💼 LinkedIn: (https://www.linkedin.com/in/erik-carvalho-dev/)
+📧 Email: (erikcarvalho2016@Outlook.com.br)
+
+---
+
+⭐ Sempre aprendendo algo novo todos os dias
