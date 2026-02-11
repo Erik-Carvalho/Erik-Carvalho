@@ -6,10 +6,15 @@
 ---
 
 ## 🚀 Sobre mim
+
+<details>
+<summary>📖 Clique para ler mais</summary>
+  
 Sou apaixonado por tecnologia e desenvolvimento de software.  
 Atualmente estou estudando **Java, CRUD, backend, web e projetos embarcados com ESP32**, criando sistemas reais para praticar e ganhar experiência prática.
 Gosto de aprender construindo projetos
 
+</details>
 ---
 
 ## 🛠️ Tecnologias que estou usando
