@@ -11,7 +11,7 @@
 <summary>📖 Clique para ler mais</summary>
   
 Sou apaixonado por tecnologia e desenvolvimento de software.  
-Atualmente estou estudando **Java, CRUD, backend, web e projetos embarcados com ESP32**, criando sistemas reais para praticar e ganhar experiência prática.
+Atualmente estou estudando **Python, backend, web e projetos embarcados com ESP32**, criando sistemas reais para praticar e ganhar experiência.
 Gosto de aprender construindo projetos
 
 
@@ -20,7 +20,7 @@ Gosto de aprender construindo projetos
 ## 🛠️ Tecnologias que estou usando
 💡 Em constante evolução
 
-- ☕ Java, C++
+- ☕ Python, Java, C++
 - 🌐 HTML, CSS
 - 🗄️ CRUD / Backend
 - 🔌 ESP32 / IoT /
